@@ -138,13 +138,8 @@ The following errors were studied and fixed:
 
 ## Screenshots
 
-## Screenshots
-
-
-## Screenshots
-
 ### 1. Project Structure
-![Project Structure](Lab-3/screenshots/Project_Structure.png)
+![Project Structure](Lab-3/Lab-3/screenshots/Project_Structure.png)
 
 ### 2. App.js Code
 ![App.js Code](Lab-3/screenshots/App.js_code.png)
