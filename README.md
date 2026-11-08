@@ -141,7 +141,7 @@ The following errors were studied and fixed:
 ## Screenshots
 
 ### 1. Project Structure
-![Project Structure](screenshots/01_Project_Structure.png)
+![Project Structure](Lab-3/screenshots/Project_Structure.png)
 
 ### 2. App.js Code
 ![App.js Code](screenshots/02_App_JS_Code.png)
