@@ -142,40 +142,40 @@ The following errors were studied and fixed:
 ![Project Structure](Lab-3/Lab-3/screenshots/Project_Structure.png)
 
 ### 2. App.js Code
-![App.js Code](Lab-3/screenshots/App.js_code.png)
+![App.js Code](Lab-3/Lab-3/screenshots/App.js_code.png)
 
 ### 3. Server Running
-![Server Running](Lab-3/screenshots/Server_Running.png)
+![Server Running](Lab-3/Lab-3/screenshots/Server_Running.png)
 
 ### 4. POST - Add Book
-![POST Add Book](Lab-3/screenshots/POST_Add_Book.png.png)
+![POST Add Book](Lab-3/Lab-3/Lab-3/screenshots/POST_Add_Book.png.png)
 
 ### 5. GET - All Books
-![GET All Books](Lab-3/screenshots/GET_All_Books.png.png)
+![GET All Books](Lab-3/Lab-3/screenshots/GET_All_Books.png.png)
 
 ### 6. Search Books
-![Search Books](Lab-3/screenshots/Search_Books.png)
+![Search Books](Lab-3/Lab-3/screenshots/Search_Books.png)
 
 ### 7. Sort Books
-![Sort Books](Lab-3/screenshots/Sort_Books.png)
+![Sort Books](Lab-3/Lab-3/screenshots/Sort_Books.png)
 
 ### 8. Price Filtering
 ![Price Filtering](Lab-3/screenshots/Price_Filter.png)
 
 ### 9. Pagination
-![Pagination](Lab-3/screenshots/Pagination.png)
+![Pagination](Lab-3/Lab-3/screenshots/Pagination.png)
 
 ### 10. PUT - Update Book
-![PUT Update Book](Lab-3/screenshots/PUT_Update_Book.png)
+![PUT Update Book](Lab-3/Lab-3/screenshots/PUT_Update_Book.png)
 
 ### 11. DELETE - Delete Book
-![DELETE Book](Lab-3/screenshots/DELETE_Book.png)
+![DELETE Book](Lab-3/Lab-3/screenshots/DELETE_Book.png)
 
 ### 12. Validation - 400
-![Validation](Lab-3/screenshots/Validation_400.png)
+![Validation](Lab-3/Lab-3/screenshots/Validation_400.png)
 
 ### 13. Not Found - 404
-![Not Found](Lab-3/screenshots/Not_Found_404.png)
+![Not Found](Lab-3/Lab-3/screenshots/Not_Found_404.png)
 
 
 ## Conclusion
